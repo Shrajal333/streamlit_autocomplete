@@ -8,6 +8,8 @@ A simple Python package for adding **autocomplete** functionality to a Streamlit
 - Works with any list of strings (cities, stock names, etc.)
 - Clean, minimal API for Streamlit
 
+![image](https://github.com/user-attachments/assets/107ef309-9302-4878-ab8d-de9d17135720)
+
 ---
 
 ## Installation
